@@ -7,4 +7,6 @@
 
 -We used JDBC for the database connection to perform the CRUD operations directly on the database.
 
+-Used the MVC pattern for its development.
+
 -Used NetBeans as our IDE for its development.
